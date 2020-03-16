@@ -3,7 +3,7 @@
 # This is a generated file and will be overwritten
 
 @app
-fly-x01
+stars-dtt
 
 @static
 
